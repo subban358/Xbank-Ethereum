@@ -1,0 +1,18 @@
+body{
+    background: #eee;
+}
+#form{
+    border: solid gray 1px;
+    width: 20%;
+    margin: 100px auto;
+    background: white;
+    padding: 50px;
+    font-size: 17px;
+    font-family: Century Gothic;
+}
+#btn{
+    color: #fff;
+    background: 5px;
+    padding: 5px;
+    margin-left:69%;
+}
